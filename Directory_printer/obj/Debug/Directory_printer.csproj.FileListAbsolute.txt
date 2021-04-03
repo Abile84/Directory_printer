@@ -1,0 +1,10 @@
+E:\programmiCsharop\Directory_printer\Directory_printer\bin\Debug\Directory_printer.exe.config
+E:\programmiCsharop\Directory_printer\Directory_printer\bin\Debug\Directory_printer.exe
+E:\programmiCsharop\Directory_printer\Directory_printer\bin\Debug\Directory_printer.pdb
+E:\programmiCsharop\Directory_printer\Directory_printer\obj\Debug\Directory_printer.csprojAssemblyReference.cache
+E:\programmiCsharop\Directory_printer\Directory_printer\obj\Debug\Directory_printer.Form1.resources
+E:\programmiCsharop\Directory_printer\Directory_printer\obj\Debug\Directory_printer.Properties.Resources.resources
+E:\programmiCsharop\Directory_printer\Directory_printer\obj\Debug\Directory_printer.csproj.GenerateResource.cache
+E:\programmiCsharop\Directory_printer\Directory_printer\obj\Debug\Directory_printer.csproj.CoreCompileInputs.cache
+E:\programmiCsharop\Directory_printer\Directory_printer\obj\Debug\Directory_printer.exe
+E:\programmiCsharop\Directory_printer\Directory_printer\obj\Debug\Directory_printer.pdb
